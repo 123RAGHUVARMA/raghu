@@ -26,3 +26,7 @@
 [google](www.google.com)
 
 ![kim](https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1139833733%2FRussian-President-Vladimir-Putin-Receives-North-Korean-Leader-Kim-Jong-un%2F960x0.jpg%3Ffit%3Dscale)
+
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
